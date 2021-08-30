@@ -149,19 +149,17 @@ html{
 }
 #twitter:hover{
 color: gray;
-font-size: large;
+font-size: medium;
 }#email:hover{
     color:gray;
-    font-size: large;
+    font-size: medium;
 }#facebook:hover{
     color:gray;
-    font-size: large;
+    font-size: medium;
 }#linkedIn:hover{
     color:gray;
-    font-size: large;
+    font-size: medium;
 }.getTogather{
     text-align:center;
     background-color: gray;
-}table<th{
-background-color:cornflowerblue;
 }
