@@ -17,16 +17,25 @@ body{
   background-color: #e4fbff;
 }
 #myName{
-    padding-right: 1%;
     padding-left: 1%;
-    margin-right: 67%;
+    margin-right: 60%;
     padding-top: 1%;
     padding-bottom: 1%;
     font-family:'Bahnschrift SemiBold';
     font-size: large;    
     background-color: transparent;
     border-color: transparent;
-}#contact{
+}#photos{
+padding-right: 1%;
+padding-left: 1%; 
+background-color: transparent;
+border-color: transparent;
+font-family: 'Bahnschrift SemiBold';
+padding-top: 1%;
+padding-bottom: 1%;
+font-size: large;
+}
+#contact{
     padding-right: 1%;
     padding-left: 1%; 
     background-color: transparent;
